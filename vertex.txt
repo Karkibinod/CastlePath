@@ -1,0 +1,13 @@
+MainGate
+Administration
+Library
+Classrooms
+Labs
+Cafeteria
+RecreationCenter
+StudyRooms
+ComputerLabs
+ITHelpdesk
+ReadingHalls
+Gym
+SportsGrounds
