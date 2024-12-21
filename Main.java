@@ -1,12 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-/*
- *  Name : Binod Karki
- *  Course : COSC-2436-41350
- *  Assignment: HomeWork 7
- * 
- * */
+
 
 public class Main
 {
